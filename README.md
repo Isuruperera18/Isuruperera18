@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Isuruperera18&show_icons=true&hide_border=true"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuruperera18&layout=compact&langs_count=10">
+![Isuru's github stats]("https://github-readme-stats.vercel.app/api?username=Isuruperera18&show_icons=true&hide_border=true")
+![Isuru's github stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=Isuruperera18&layout=compact&langs_count=10")
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
